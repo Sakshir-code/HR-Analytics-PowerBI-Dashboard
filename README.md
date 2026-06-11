@@ -4,11 +4,18 @@ Interactive HR Analytics Dashboard built in Power BI to analyze workforce distri
 # About the Project
 This project was created to explore workforce and employee-related data through an interactive Power BI dashboard. The goal was to understand employee distribution, attrition patterns, performance trends, and salary insights in a way that helps HR teams and business leaders make better decisions.
 Instead of looking at raw data and spreadsheets, this dashboard provides a clear view of key workforce metrics through interactive visualizations and filters.
+## Dataset
+This project uses a subset of a publicly available HR dataset from Kaggle.
 
-# Why I Built This Dashboard
+The original dataset contains approximately 1 million records. For this analysis, I worked with around 200,000 employee records to focus on dashboard performance and business analysis.
+
+Dataset Source:
+https://www.kaggle.com/datasets/rohitgrewal/hr-data-mnc
+
+## Why I Built This Dashboard
 Managing a large workforce comes with several challenges such as employee attrition, workforce planning, performance monitoring, and understanding salary distribution across departments.
 
-# I built this dashboard to answer questions like:
+## I built this dashboard to answer questions like:
 
 1.Which departments have the highest employee count?
 2.Which job roles experience the most attrition?
@@ -18,7 +25,7 @@ Managing a large workforce comes with several challenges such as employee attrit
 
 # Business Solution
 This dashboard was developed to provide a centralized view of workforce data and help HR teams make informed decisions based on employee trends and performance metrics.
-# The solution enables stakeholders to:
+## The solution enables stakeholders to:
 
 1.Monitor workforce health through key metrics such as employee count, attrition rate, active employees, and average salary.
 2.Identify departments and job roles with higher attrition rates to support employee retention initiatives.
